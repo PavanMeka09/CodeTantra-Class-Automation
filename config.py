@@ -1,0 +1,9 @@
+regNo = "XXXXXXXX"
+password = "XXXXXXXX"
+webdriverExecutablePath = r"C:\\chromedriver-win64\\chromedriver.exe"
+refreshTime = 180
+joinAudio = False
+audioMode = 1
+headless = True
+botToken = "800000039:AAEgA9KgCpXXXXXXXXXXX"
+chatId = "823000000"
